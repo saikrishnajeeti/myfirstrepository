@@ -1,3 +1,5 @@
 print("hello world")
 print("welcome to python programming")
 print("this is awesome")
+print(10+20)
+print(100-50)
